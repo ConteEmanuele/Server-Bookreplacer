@@ -1,0 +1,67 @@
+[
+    {
+        "title" : "Harry Potter e il calice di fuoco",
+        "author" : "J.K. Rowling",
+        "publisher" : "Boomsbury",
+        "year" : "2000",
+        "conditions" : "Ottime",
+        "availability" : "Disponibile",
+        "uploaded" : "13/01/2021",
+        "owner" : "conteemanuele002@gmail.com"
+    },
+
+    {
+        "title" : "Harry Potter e i doni della morte",
+        "author" : "J.K. Rowling",
+        "publisher" : "Boomsbury",
+        "year" : "2007",
+        "conditions" : "Ottime",
+        "availability" : "Disponibile",
+        "uploaded" : "13/01/2021",
+        "owner" : "francescoabeni@gmail.com"
+    },
+
+    {
+        "title" : "Harry Potter e la camera dei segreti",
+        "author" : "J.K. Rowling",
+        "publisher" : "Boomsbury",
+        "year" : "1998",
+        "conditions" : "Buone",
+        "availability" : "Disponibile",
+        "uploaded" : "13/01/2021",
+        "owner" : "conteemanuele002@gmail.com"
+    },
+
+    {
+        "title" : "Harry Potter e la pietra filosofale",
+        "author" : "J.K. Rowling",
+        "publisher" : "Boomsbury",
+        "year" : "1997",
+        "conditions" : "Ottime",
+        "availability" : "Disponibile",
+        "uploaded" : "13/01/2021",
+        "owner" : "francescoabeni@gmail.com"
+    },
+
+    {
+        "title" : "Harry Potter e l'ordine della fenice",
+        "author" : "J.K. Rowling",
+        "publisher" : "Boomsbury",
+        "year" : "2003",
+        "conditions" : "Buone",
+        "availability" : "Disponibile",
+        "uploaded" : "13/01/2021",
+        "owner" : "conteemanuele002@gmail.com"
+    },
+
+    {
+        "title" : "Harry Potter e il prigioniero di Azkaban",
+        "author" : "J.K. Rowling",
+        "publisher" : "Boomsbury",
+        "year" : "1999",
+        "conditions" : "Ottime",
+        "availability" : "Disponibile",
+        "uploaded" : "13/01/2021",
+        "owner" : "null"
+    }
+]
